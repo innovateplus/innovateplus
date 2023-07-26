@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Static Badge](https://testingcdn.cloud.js.cool/shields/github/followers/innovateplus.svg?style=social&label=Followers)](https://github.com/innovateplus)
+[![Static Badge](https://cdn.cloud.js.cool/shields/github/followers/innovateplus.svg?style=social&label=Followers)](https://github.com/innovateplus)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=innovateplus)](https://github.com/innovateplus)
 
